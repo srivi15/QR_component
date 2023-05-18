@@ -46,4 +46,4 @@ For continued development, I look forward to implementing the same with tail-win
 ## Author
 
 - Website - [Srividhya Ranganathan](https://www.linkedin.com/in/srividhya-ranganathan/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/srivi15)
+- Frontend Mentor - [@srivi15](https://www.frontendmentor.io/profile/srivi15)
