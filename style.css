@@ -1,13 +1,26 @@
+@import url('fonts.googleapis.com/css?family=Outfit:400,700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
     background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
 }
 
 .container1{
-    align-items: center;
-    justify-content: center;
+    text-align: center;
+    max-width: 360px;
+    margin: 0 auto;
     background-color: white;
-    padding: 10vh 10vh;
-    border: 100vh;
+    padding: 16px;
     border-radius: 10%;
 }
 
@@ -16,13 +29,24 @@ body{
 }
 
 .qr_container img{
-    width: 50vh;
+    width: 100%;
+    border-radius: 10%;
 }
 
 h2{
     text-align: center;
+    padding: 22px 10px;
+    color:  hsl(218, 44%, 22%);
 }
 
 p{
     text-align: center;
+    padding: 22px 10px;
+    color: hsl(220, 15%, 55%);
+}
+
+@media (max-width: 375px) {
+    .container1{
+        margin: 0 1rem;
+    }
 }
