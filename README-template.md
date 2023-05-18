@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# QR code component
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
@@ -45,5 +45,5 @@ For continued development, I look forward to implementing the same with tail-win
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Srividhya Ranganathan](https://www.linkedin.com/in/srividhya-ranganathan/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/srivi15)
