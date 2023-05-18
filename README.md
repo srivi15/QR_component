@@ -19,7 +19,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here]
+- Solution URL: 
 (https://www.frontendmentor.io/solutions/basic-qr-code-component-Gc00jnMWuk)
 - Live Site URL: 
 (https://imaginative-conkies-9e9b83.netlify.app/)
